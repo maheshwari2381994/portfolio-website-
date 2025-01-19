@@ -1,6 +1,3 @@
-Here’s a concise and appealing description you can use for your GitHub README file to showcase your portfolio website:
-
----
 
 # My Portfolio Website 🌟
 
